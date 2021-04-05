@@ -1,3 +1,4 @@
+#MicroBit-LightSensor
 
 > Open this page at [https://derrick-tan-d-webdev.github.io/microbit-lightsensor/](https://derrick-tan-d-webdev.github.io/microbit-lightsensor/)
 
